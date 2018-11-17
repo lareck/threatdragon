@@ -42,7 +42,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process 0"
+                  "text": "process 1"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -94,7 +94,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "actor 2"
+                  "text": "Regular User"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
